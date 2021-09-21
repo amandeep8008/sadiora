@@ -1,0 +1,11 @@
+
+
+hello
+now i am editing abc file in master, to see changes makes an affect to branch1.
+
+## below info is being merged from branch1
+ 
+hello everyone
+i am editing abc file in branch1.
+just to check changes in master file.
+>>>>>>> branch1
